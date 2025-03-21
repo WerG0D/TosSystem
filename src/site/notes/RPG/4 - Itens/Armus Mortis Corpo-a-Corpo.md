@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/4-itens/armus-mortis-corpo-a-corpo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/4-itens/armus-mortis-corpo-a-corpo/"}
 ---
 
 

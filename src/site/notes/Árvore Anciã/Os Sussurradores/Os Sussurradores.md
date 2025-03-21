@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/os-sussurradores/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/os-sussurradores/"}
 ---
 
 

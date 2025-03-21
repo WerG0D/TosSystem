@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/ficha-de-personagem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/ficha-de-personagem/"}
 ---
 
 

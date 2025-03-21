@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/tabela-de-atividades-e-custos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/tabela-de-atividades-e-custos/"}
 ---
 
 # 💰 Economia de Eldoria — Tabela de Atividades e Custos
@@ -55,26 +55,26 @@
 
 ## 🧪 Poções e Medicina
 
-| Produto                         | Custo Médio (☬) | Descrição                                                                 |
-|--------------------------------|------------------|---------------------------------------------------------------------------|
-| Poção de cura simples         | 150 ~ 250        | Cura ferimentos leves.                                                   |
-| Poção de cura avançada        | 400 ~ 800        | Recupera boa parte do HP.                                                |
-| Poção de energia              | 200 ~ 350        | Restaura pontos de Aegis.                                                |
-| Antídoto                      | 180 ~ 300        | Cura venenos básicos.                                                    |
-| Poção de invisibilidade       | 1500 ~ 3000      | Dura até 10 minutos.                                                     |
-| Atendimento médico básico     | 250 ~ 500        | Envolve curativos, poções e feitiços leves.                              |
-| Atendimento emergencial       | 800 ~ 1500       | Clérigos, rituais e ressuscitações.                                      |
+| Produto                   | Custo Médio (☬) | Descrição                                   |
+| ------------------------- | --------------- | ------------------------------------------- |
+| Poção de cura simples     | 150 ~ 250       | Cura ferimentos leves.                      |
+| Poção de cura avançada    | 400 ~ 800       | Recupera boa parte do HP.                   |
+| Poção de energia          | 200 ~ 350       | Restaura pontos de Aegis.                   |
+| Antídoto                  | 180 ~ 300       | Cura venenos básicos.                       |
+| Poção de invisibilidade   | 1500 ~ 3000     | Dura até 10 minutos.                        |
+| Atendimento médico básico | 250 ~ 500       | Envolve curativos, poções e feitiços leves. |
+| Atendimento emergencial   | 800 ~ 1500      | Clérigos, rituais e ressuscitações.         |
 
 ---
 
 ## 📜 Serviços e Burocracias
 
-| Serviço                         | Custo Médio (☬) | Descrição                                                                 |
-|--------------------------------|------------------|---------------------------------------------------------------------------|
-| Registro de Expressão de Aegis| 200 ~ 350        | Necessário em áreas urbanas.                                             |
-| Emissão de identidade mágica  | 300 ~ 500        | Para acesso a regiões nobres.                                            |
-| Suborno básico                | 150 ~ 400        | Guardas, fiscais e sentinelas.                                           |
-| Suborno nobre                 | 1000 ~ 3000      | Magistrados e conselheiros de Thalassar.                                 |
+| Serviço                        | Custo Médio (☬) | Descrição                                |
+| ------------------------------ | --------------- | ---------------------------------------- |
+| Registro de Expressão de Aegis | 200 ~ 350       | Necessário em áreas urbanas.             |
+| Emissão de identidade mágica   | 300 ~ 500       | Para acesso a regiões nobres.            |
+| Suborno básico                 | 150 ~ 400       | Guardas, fiscais e sentinelas.           |
+| Suborno nobre                  | 1000 ~ 3000     | Magistrados e conselheiros de Thalassar. |
 
 ---
 
@@ -94,13 +94,13 @@
 
 ## 🎓 Educação e Conhecimento
 
-| Serviço                         | Custo Médio (☬) | Descrição                                                                 |
-|--------------------------------|------------------|---------------------------------------------------------------------------|
-| Aula de magia básica           | 300 ~ 600        | Manipulação de Aegis e rituais simples.                                  |
-| Treinamento com espadachim     | 400 ~ 800        | Técnicas de combate físico.                                              |
-| Leitura em biblioteca arcana   | 100 ~ 250        | Acesso por dia a grimórios e documentos raros.                          |
-| Tradução de runas antigas      | 350 ~ 700        | Especialistas de Thalassar.                                              |
-| Análise de artefato            | 500 ~ 1200       | Descoberta de efeitos e maldições.                                       |
+| Serviço                      | Custo Médio (☬) | Descrição                                      |
+| ---------------------------- | --------------- | ---------------------------------------------- |
+| Aula de magia básica         | 300 ~ 600       | Manipulação de Aegis e rituais simples.        |
+| Treinamento com espadachim   | 400 ~ 800       | Técnicas de combate físico.                    |
+| Leitura em biblioteca arcana | 100 ~ 250       | Acesso por dia a grimórios e documentos raros. |
+| Tradução de runas antigas    | 350 ~ 700       | Especialistas de Thalassar.                    |
+| Análise de artefato          | 500 ~ 1200      | Descoberta de efeitos e maldições.             |
 
 ---
 

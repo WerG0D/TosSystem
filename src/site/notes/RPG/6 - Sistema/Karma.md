@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/karma/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/karma/"}
 ---
 
 # ⚖️ Sistema de Karma

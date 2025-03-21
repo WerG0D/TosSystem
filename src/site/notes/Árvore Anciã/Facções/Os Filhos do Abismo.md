@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/os-filhos-do-abismo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/os-filhos-do-abismo/"}
 ---
 
 #### Grau  

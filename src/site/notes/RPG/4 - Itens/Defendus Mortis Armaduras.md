@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/4-itens/defendus-mortis-armaduras/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/4-itens/defendus-mortis-armaduras/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/pericias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/pericias/"}
 ---
 
 # 🎲 Níveis de Dificuldade para Testes

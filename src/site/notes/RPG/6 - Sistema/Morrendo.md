@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/morrendo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/morrendo/"}
 ---
 
 # 💀 Tabela da Morte

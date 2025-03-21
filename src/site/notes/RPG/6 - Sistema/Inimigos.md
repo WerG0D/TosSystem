@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/inimigos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/inimigos/"}
 ---
 
 # 📊 Tabela de Atributos por Tipo de Inimigo — Eldoria RPG

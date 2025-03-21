@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/sanidade/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/sanidade/"}
 ---
 
 # 🧠 Sistema de Sanidade

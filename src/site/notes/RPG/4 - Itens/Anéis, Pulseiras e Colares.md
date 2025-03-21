@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/4-itens/aneis-pulseiras-e-colares/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/4-itens/aneis-pulseiras-e-colares/"}
 ---
 
 

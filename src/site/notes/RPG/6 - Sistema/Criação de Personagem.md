@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/criacao-de-personagem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/criacao-de-personagem/"}
 ---
 
 

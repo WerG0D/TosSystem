@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/a-revolta-dos-desesperados/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/a-revolta-dos-desesperados/"}
 ---
 
 

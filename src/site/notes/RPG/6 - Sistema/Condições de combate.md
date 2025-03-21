@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/condicoes-de-combate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/condicoes-de-combate/"}
 ---
 
 

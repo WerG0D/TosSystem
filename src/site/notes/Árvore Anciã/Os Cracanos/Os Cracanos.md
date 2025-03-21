@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/os-cracanos/os-cracanos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/os-cracanos/os-cracanos/"}
 ---
 
 

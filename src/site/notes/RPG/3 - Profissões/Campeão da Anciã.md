@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/3-profissoes/campeao-da-ancia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/3-profissoes/campeao-da-ancia/"}
 ---
 
 

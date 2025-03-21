@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/panteao/a-guerra-dos-divinos/o-sacrificio-do-herdeiro-do-mar/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/panteao/a-guerra-dos-divinos/o-sacrificio-do-herdeiro-do-mar/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/arvore-ancia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/arvore-ancia/"}
 ---
 
 

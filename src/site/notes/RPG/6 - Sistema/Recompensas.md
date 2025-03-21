@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/recompensas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/recompensas/"}
 ---
 
 # 💰 Recompensas por Grau de Personagem
@@ -13,11 +13,11 @@
 
 ### 📆 Pagamento por Duração
 
-| Duração da Missão       | Recompensa (Florins Áureos) |
-|--------------------------|------------------------------|
-| Missão Curta (≤ 1 sessão)| ✹150 ~ 200                  |
-| Missão Média (2 sessões) | ✹350 ~ 450                  |
-| Missão Longa (≥ 3 sessões)| ✹600 ~ 800                 |
+| Duração da Missão          | Recompensa (Florins Áureos) |
+| -------------------------- | --------------------------- |
+| Missão Curta (≤ 1 sessão)  | ✹150 ~ 200                  |
+| Missão Média (2 sessões)   | ✹350 ~ 450                  |
+| Missão Longa (≥ 3 sessões) | ✹600 ~ 800                  |
 
 ### ⚔️ Pagamento por Dificuldade
 
@@ -53,11 +53,11 @@
 
 ### 📆 Pagamento por Duração
 
-| Duração da Missão       | Recompensa (Florins Áureos) |
-|--------------------------|------------------------------|
-| Missão Curta (≤ 1 sessão)| ✹500 ~ 800                  |
-| Missão Média (2 sessões) | ✹1000 ~ 1500                |
-| Missão Longa (≥ 3 sessões)| ✹2000 ~ 3000               |
+| Duração da Missão          | Recompensa (Florins Áureos) |
+| -------------------------- | --------------------------- |
+| Missão Curta (≤ 1 sessão)  | ✹500 ~ 800                  |
+| Missão Média (2 sessões)   | ✹1000 ~ 1500                |
+| Missão Longa (≥ 3 sessões) | ✹2000 ~ 3000                |
 
 ### ⚔️ Pagamento por Dificuldade
 

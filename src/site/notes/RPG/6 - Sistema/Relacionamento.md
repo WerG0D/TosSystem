@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/relacionamento/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/relacionamento/"}
 ---
 
 # 🤝 Sistema de Relacionamento

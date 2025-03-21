@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/eldorsap/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/eldorsap/"}
 ---
 
 

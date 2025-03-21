@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/subindo-de-grau/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/subindo-de-grau/"}
 ---
 
 # 🧬 Progressão de Grau

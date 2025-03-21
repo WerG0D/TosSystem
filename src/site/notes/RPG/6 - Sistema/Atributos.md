@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/atributos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/atributos/"}
 ---
 
 # 📐 Atributos de Personagem — Eldoria RPG

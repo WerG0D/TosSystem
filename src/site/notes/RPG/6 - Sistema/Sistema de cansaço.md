@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/sistema-de-cansaco/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/sistema-de-cansaco/"}
 ---
 
 # 💤 Sistema de Cansaço e Exaustão

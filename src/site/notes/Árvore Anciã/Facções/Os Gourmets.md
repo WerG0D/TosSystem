@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/os-gourmets/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/os-gourmets/"}
 ---
 
 #### Grau  

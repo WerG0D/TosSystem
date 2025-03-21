@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/sem-patria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/sem-patria/"}
 ---
 
 

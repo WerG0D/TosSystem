@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/4-itens/armus-e-defendus-mortis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/4-itens/armus-e-defendus-mortis/"}
 ---
 
 

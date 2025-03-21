@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/3-profissoes/cozinheiro-de-batalha/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/3-profissoes/cozinheiro-de-batalha/"}
 ---
 
 

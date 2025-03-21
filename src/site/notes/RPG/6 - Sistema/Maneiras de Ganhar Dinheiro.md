@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/6-sistema/maneiras-de-ganhar-dinheiro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/6-sistema/maneiras-de-ganhar-dinheiro/"}
 ---
 
 

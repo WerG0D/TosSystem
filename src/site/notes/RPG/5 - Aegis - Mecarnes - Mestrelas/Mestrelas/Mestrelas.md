@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/5-aegis-mecarnes-mestrelas/mestrelas/mestrelas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/rpg/5-aegis-mecarnes-mestrelas/mestrelas/mestrelas/"}
 ---
 
 

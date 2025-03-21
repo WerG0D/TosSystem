@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/a-igreja-da-culpa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/arvore-ancia/faccoes/a-igreja-da-culpa/"}
 ---
 
 
