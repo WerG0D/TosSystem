@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/radilhante/"}
+{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/radilhante/","dgPassFrontmatter":true}
 ---
 
 

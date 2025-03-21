@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/thalassano/"}
+{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/thalassano/","dgPassFrontmatter":true}
 ---
 
 

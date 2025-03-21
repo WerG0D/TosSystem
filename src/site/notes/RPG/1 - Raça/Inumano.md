@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/1-raca/inumano/"}
+{"dg-publish":true,"permalink":"/rpg/1-raca/inumano/","dgPassFrontmatter":true}
 ---
 
 

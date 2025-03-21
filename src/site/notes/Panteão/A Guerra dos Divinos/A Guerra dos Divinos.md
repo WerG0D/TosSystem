@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/panteao/a-guerra-dos-divinos/a-guerra-dos-divinos/"}
+{"dg-publish":true,"permalink":"/panteao/a-guerra-dos-divinos/a-guerra-dos-divinos/","dgPassFrontmatter":true}
 ---
 
 

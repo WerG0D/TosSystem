@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/a-jornada-dos-imortais/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/a-jornada-dos-imortais/","dgPassFrontmatter":true}
 ---
 
 

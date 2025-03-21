@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/cidade-alta-frondosa/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/cidade-alta-frondosa/","dgPassFrontmatter":true}
 ---
 
 

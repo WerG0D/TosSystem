@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/1-raca/meio-sereia/"}
+{"dg-publish":true,"permalink":"/rpg/1-raca/meio-sereia/","dgPassFrontmatter":true}
 ---
 
 

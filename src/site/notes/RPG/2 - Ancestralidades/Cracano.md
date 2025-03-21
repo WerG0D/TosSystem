@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/cracano/"}
+{"dg-publish":true,"permalink":"/rpg/2-ancestralidades/cracano/","dgPassFrontmatter":true}
 ---
 
 

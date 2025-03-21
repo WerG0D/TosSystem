@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/as-estrelas-cadentes/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/as-estrelas-cadentes/","dgPassFrontmatter":true}
 ---
 
 

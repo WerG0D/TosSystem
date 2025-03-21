@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eldoria/o-pecado-capital/"}
+{"dg-publish":true,"permalink":"/eldoria/o-pecado-capital/","dgPassFrontmatter":true}
 ---
 
 #ancienttree #eldoria 

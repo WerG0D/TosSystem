@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eldoria/eldoria/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/eldoria/eldoria/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 Há muito tempo, em um solitário planeta oceânico vagando pelo frio cosmos, surgiu o continente de Eldoria. Ao longo das eras, Eldoria tornou-se um lugar inóspito, com pouca vida em geral. A paisagem de Eldoria é marcada por diversas formações rochosas em locais surpreendentes, algumas vezes proporcionando vistas magníficas. Em algum momento durante o Pecado Capital, Eldoria foi atingida por um dilúvio, o qual prejudicou significativamente a vida no continente, destruindo tudo em seu caminho e transformando paisagens inteiras. Ainda hoje, é comum encontrar enormes lagos onde antes havia vales com diferentes tipos de arquitetura humana.

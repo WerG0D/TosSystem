@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/os-radilhantes/os-radilhantes/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/os-radilhantes/os-radilhantes/","dgPassFrontmatter":true}
 ---
 
 

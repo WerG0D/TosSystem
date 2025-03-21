@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/1-raca/humano/"}
+{"dg-publish":true,"permalink":"/rpg/1-raca/humano/","dgPassFrontmatter":true}
 ---
 
 

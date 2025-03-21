@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/1-raca/zytherin/"}
+{"dg-publish":true,"permalink":"/rpg/1-raca/zytherin/","dgPassFrontmatter":true}
 ---
 
 

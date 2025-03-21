@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/eter-dourado/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/thalassar/eter-dourado/","dgPassFrontmatter":true}
 ---
 
 

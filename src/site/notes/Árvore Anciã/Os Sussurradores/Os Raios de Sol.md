@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/os-raios-de-sol/"}
+{"dg-publish":true,"permalink":"/arvore-ancia/os-sussurradores/os-raios-de-sol/","dgPassFrontmatter":true}
 ---
 
 

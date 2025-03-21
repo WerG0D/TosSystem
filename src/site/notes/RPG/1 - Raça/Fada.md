@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rpg/1-raca/fada/"}
+{"dg-publish":true,"permalink":"/rpg/1-raca/fada/","dgPassFrontmatter":true}
 ---
 
 
