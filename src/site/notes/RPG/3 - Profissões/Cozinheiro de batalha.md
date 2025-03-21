@@ -8,7 +8,7 @@
 "Entre o caos do campo de batalha e a fome dos guerreiros, há aquele que transforma ingredientes em força, pratos em cura e especiarias em poder. O Cozinheiro de Batalha não é apenas um mestre da gastronomia, mas um alquimista de sabores, um estrategista que cozinha não apenas para nutrir, mas para vencer."
 ```
 
-![Pasted image 20250320103408.png](/img/user/Pasted%20image%2020250320103408.png)
+![Pasted image 20250320103408.png](/img/user/Images/Pasted%20image%2020250320103408.png)
 
 >Os Cozinheiros de Batalha são guerreiros culinários que combinam astúcia e habilidade gastronômica para fortalecer seus aliados e enfraquecer seus inimigos. Munidos de facas afiadas tanto para cortar carne quanto para cortar ameaças, eles extraem o potencial máximo dos ingredientes mais exóticos, preparando pratos que restauram, impulsionam e até mesmo concedem habilidades temporárias. São combatentes engenhosos que caminham entre o suporte e o reforço ofensivo, garantindo que a fome nunca seja um obstáculo – e que a comida sempre seja uma arma.
 

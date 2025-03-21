@@ -10,7 +10,7 @@
 ```
 
 
-![Pasted image 20250320103126.png](/img/user/Pasted%20image%2020250320103126.png)
+![Pasted image 20250320103126.png](/img/user/Images/Pasted%20image%2020250320103126.png)
 
 
 
