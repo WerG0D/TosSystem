@@ -14,7 +14,7 @@
 - **Raça**:  
 - **Ancestralidade**:  
 - **Profissão**:  
-- **Nível**:  
+- **Grau**:  
 
 ---
 
@@ -24,11 +24,12 @@
 > Escreva aqui a história completa do personagem. Seja longo se precisar, adicione detalhes, motivações, eventos marcantes.
 
 ### 🧠 Traços de Personalidade
-- Características marcantes:
+Características marcantes:
   - 
   - 
   - 
-- Defeitos:
+
+Defeitos:
   - 
   - 
 
@@ -41,7 +42,7 @@
 ### 💎 O que você mais valoriza?
 > Dinheiro, amor, glória, conhecimento…?
 
-### 🫂 Sentimentos sobre as pessoas
+###  ❤️ Sentimentos sobre as pessoas
 > Você ama, odeia, teme ou é indiferente às pessoas?
 
 ### 👤 Pessoa mais valorizada
@@ -99,7 +100,7 @@
 ---
 
 ## 🎯 PERÍCIAS
-> Liste aqui as perícias aprendidas e seus níveis.
+> Liste aqui as perícias aprendidas e os níveis das mesmas 
 
 ---
 
@@ -119,7 +120,7 @@
 ---
 
 ## ⚙️ MECARNES / MESTRELAS
-
+> Detalhe aqui suas mecarnes ou mestrelas, com suas aegis, pactos e ações da arma 
 - **Nome da Arma**:  
 - **Aegis da Arma**:  
 - **Condições e Pactos**:  
@@ -128,7 +129,7 @@
 ---
 
 ## 🌌 EXPRESSÕES DE AEGIS
-
+> Detalhe aqui suas expressões da Aegis, assim como seus pactos e ações. 
 - **Nome da Expressão**:  
 - **Descrição da Expressão**:  
 - **Condições e Pactos**:  

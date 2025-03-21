@@ -31,7 +31,7 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 - **Sentimentos sobre as pessoas**: Como você se sente sobre as pessoas? as odeia ? tem medo delas? Ama todas elas ou apenas os que se encaixarem no seu senso?
 
-- Pessoa mais valorizada: Você tem um melhor amigo? companheira ? familiar que mais goste? Ou é completamente sozinho?
+- **Pessoa mais valorizada**: Você tem um melhor amigo? companheira ? familiar que mais goste? Ou é completamente sozinho?
 
 - **Objeto mais valioso**: Uma flecha quebrada de sua primeira caça, um lenço do amor da sua vida, etc.
 
@@ -65,12 +65,12 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 # Passo 5: Mecarnes e Mestrelas
 
-> Veja a sessão de Aegis, mercanes e mestrelas para entender mais 
+> Veja a sessão de Aegis, [[RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes\|Mecarnes]] e [[RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas\|Mestrelas]] para entender mais 
 
 > Caso seu personagem faça uso de mecarnes ou mestrelas, anote a Aegis da arma, seus pactos e condições e dela.
 
 # Passo 6: Aegis
 
-> Veja a sessão de Aegis, crie a Aegis de seu personagem e anote na ficha as informações pertinentes. 
+> Veja a sessão de [[RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões\|Aegis - Expressões]], crie a Aegis de seu personagem e anote na ficha as informações pertinentes. 
 
 

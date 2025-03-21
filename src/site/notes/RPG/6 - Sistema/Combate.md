@@ -2,31 +2,74 @@
 {"dg-publish":true,"permalink":"/rpg/6-sistema/combate/","dgPassFrontmatter":true}
 ---
 
+# ⚔️ Fluxo de Combate em Eldoria
 
+## 🔁 Ordem de Turnos
 
-### Ações em combate:
+1. **Determinar Iniciativa**
+   - Todos os participantes rolam 1d10 + Modificador de Reação.
+   - A ordem do maior para o menor define quem age primeiro.
 
->Mover-se: Move-se pelo terreno de acordo com sua velocidade de movimento. É considerado uma ação livre 
+---
 
->Desengajar: Permite mover-se sem receber ataques de oportunidade. Custa uma ação de combate.
+## 🌀 Estrutura de Turno (por personagem)
 
->Arremessar: Arremessa objetos uma distancia igual ao dobro do seu modificador de força. Custa uma ação de combate.
+Durante seu turno, o personagem pode realizar:
 
->Agarrar: Agarra um individuo, realizando um teste de força vs esquiva do alvo. Custa uma ação de combate.
+- 1 **Ação de Combate**
+- 1 **Ação Bônus**
+- Qualquer número de **Ações Livres** (com bom senso)
 
->Ajudar: Em alcance de toque, ajude uma criatura ou ser que esteja em apuros, levantando companheiros caídos ou desamarrando pessoas presas. Custa uma ação de combate.
+---
 
->Atacar: Realiza um ataque armado ou desarmado, usando teste aplicável vs Esquiva ou defesa do alvo (o alvo escolhe se vai esquivar ou defender). Custa uma ação de combate.
+## 🧭 Ações em Combate
 
->Usar Aegis: Realiza uma expressão Aegis. Custa uma ação de combate.
+| Ação           | Tipo    | Descrição                                                                           |
+| -------------- | ------- | ----------------------------------------------------------------------------------- |
+| **Mover-se**   | Livre   | Move-se conforme a velocidade. Não provoca ataques.                                 |
+| **Desengajar** | Combate | Move-se **sem provocar ataques de oportunidade**.                                   |
+| **Arremessar** | Combate | Arremessa um objeto a até 2x o modificador de Força.                                |
+| **Agarrar**    | Combate | Teste de **Força vs Esquiva** do alvo para prender.                                 |
+| **Ajudar**     | Combate | Ajuda criaturas próximas (ex: levantar caídos, soltar presos).                      |
+| **Atacar**     | Combate | Teste ofensivo vs Esquiva ou Defesa do alvo. Pode ser ataque desarmado ou com arma. |
+| **Usar Aegis** | Combate | Executa uma **Expressão de Aegis**, conforme regras específicas da expressão.       |
+| **Usar Itens** | Bônus   | Usa poções, ativa habilidades de armas, aplica ungüentos.                           |
+| **Pular**      | Bônus   | Salta obstáculos ou alcança plataformas. Pode evitar perigos.                       |
+| **Escalar**    | Bônus   | Escala superfícies compatíveis.                                                     |
+| **Pactos**     | Bônus   | Realiza pactos da Aegis.                                                            |
+| **Esquivar**   | Livre   | Define a dificuldade para ser atingido: `1d10 + Reação`. Reduz dano se falhar.      |
+| **Defender**   | Reação  | Usa 100% da Defesa para reduzir dano. Sempre recebe no mínimo 1 de dano.            |
 
+---
 
-**Esquiva:** Esquivar é uma ação livre, que define a classe de dificuldade que o atacante deve bater, sendo essa 1d10 + Reação. Caso o atacante tenha êxito no teste reduza o dano que o alvo recebe igual a metade da Defesa do alvo, Caso o mesmo tenha tentado esquivar. Caso o atacante falhe, desvie de todo dano.
+## 🛡️ Defesa
 
-**Defender:** Não esquiva, mas utiliza 100% da Defesa para reduzir o dano. Caso defenda 100% recebe no mínimo 1 de dano.
+### 🌀 Esquiva (Livre)
+- Rolagem: `1d10 + Reação`
+- Alvo: Essa rolagem define a **dificuldade que o atacante deve superar**.
+- Sucesso do atacante:
+  - Dano reduzido à **metade da Defesa** do defensor.
+- Falha do atacante:
+  - Nenhum dano é causado.
 
-**Falha e Sucesso Crítico:** 1 e 10, respectivamente, no 1d10. O Acerto critico permite rolar os dados de dano duas vezes. 
+### 🧱 Defesa (Reação passiva)
+- O personagem **não esquiva**, mas usa 100% de sua Defesa para reduzir o dano.
+- **Mínimo 1 de dano** é sempre recebido, mesmo ao bloquear todo o ataque.
 
-**Ferimento grave**: Caso fique com 1/3 de seu hp, considere-se gravemente ferido, recebendo um ponto de exaustão. 
+---
 
-**Aterrorizado:** Alvos aterrorizados recebem -3 em todas as jogadas.
+## 🎲 Críticos e Falhas
+
+- **Falha Crítica**: Resultado **1** no d10.
+  - A ação falha com consequência narrativa (ex: tropeço, perda de arma).
+- **Sucesso Crítico**: Resultado **10** no d10.
+  - O personagem **rola o dano duas vezes** e escolhe o melhor resultado total.
+
+---
+
+## ⚠️ Ataques de Oportunidade
+
+- Ocorrem quando um inimigo **sai do seu alcance sem desengajar**.
+- Concede **um ataque gratuito** com penalidade (definida pelo mestre ou regras específicas).
+
+---
