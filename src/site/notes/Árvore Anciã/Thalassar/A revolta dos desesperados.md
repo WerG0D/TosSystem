@@ -10,7 +10,7 @@ Os habitantes de Thalassar todos os dias perdiam horas de vida a troco de moedas
 
 O Lord [[Personagens/Edgar Mustawind, o perdedor\|Edgar Mustawind, o perdedor]] sentindo a dor do povo, os chamou a luta. Seu plano era fazer uma marcha pacifica na [[Árvore Anciã/Thalassar/Cidade Alta Frondosa\|Cidade Alta Frondosa]], capital do reino. Se o rei não acatasse os desejos do povo, a revolta se tornaria violenta. 
 
-Edgar, confiando seus planos a seu irmão, [[Personagens/Lord Valerian, o Dourado\|Lord Valerian, o Dourado]], reuniu também outros rostos da revolução, como o [[Personagens/Professor Lemiux\|Professor Lemiux]] e o [[Personagens/Lord Bardolph Festejador\|Lord Bardolph Festejador]]
+Edgar, confiando seus planos a seu irmão, [[Personagens/Lord Valerian, o Dourado\|Lord Valerian, o Dourado]], reuniu também outros rostos da revolução, como o [[Personagens/Professor Lemiux\|Professor Lemiux]] e o [[Personagens/Lord Rodolph Festejador\|Lord Rodolph Festejador]]
 
 Lemiux foi encarregado de educar o povo a respeito de outras maneiras de governo, assim como de espalhar a informação da Revolta de maneira discreta.
 

@@ -69,7 +69,7 @@ No topo da árvore anciã, os minerais são processados e refinados em metais pr
 Thalassar é conhecida por sua arquitetura majestosa, que combina elementos naturais e mágicos em construções impressionantes. Pode haver grandes palácios, templos ornamentados e monumentos esculturais que refletem a história e os valores do reino. Além disso, a arte visual, como pintura e escultura, pode ser altamente valorizada, retratando paisagens deslumbrantes, figuras lendárias e temas mitológicos.
 
 #### Música e dança: 
-A música desempenha um papel importante na vida cotidiana de Thalassar, com uma rica tradição de canções folclóricas, melodias instrumentais e danças vibrantes. Festivais sazonais podem ser marcados por apresentações musicais e competições de dança, onde os artistas demonstram suas habilidades e celebram a cultura do reino. Um artista muito conhecido é [[Personagens/Lord Bardolph Festejador\|Lord Bardolph Festejador]]
+A música desempenha um papel importante na vida cotidiana de Thalassar, com uma rica tradição de canções folclóricas, melodias instrumentais e danças vibrantes. Festivais sazonais podem ser marcados por apresentações musicais e competições de dança, onde os artistas demonstram suas habilidades e celebram a cultura do reino. Um artista muito conhecido é [[Personagens/Lord Rodolph Festejador\|Lord Rodolph Festejador]]
 
 #### Literatura e Histórias:
 
