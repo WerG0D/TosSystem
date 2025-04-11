@@ -53,7 +53,7 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 >Veja tudo sobre atributos na sessão de atributos. 
 
->Todos os personagens começam com um total de 1d12 + 4 + (valor adicional da raça) pontos de atributo para distribuir entre todos os atributos. Lembre-se, os atributos tem no mínimo 7 pontos e no máximo 20. Distribua seus pontos da maneira mais sábia o possível. 
+>Todos os personagens começam com um total de 40 + (valor adicional da raça) pontos de atributo para distribuir entre todos os atributos. Lembre-se, os atributos tem no mínimo 7 pontos e no máximo 20. Distribua seus pontos da maneira mais sábia o possível. 
 
 # Passo 3: Itens iniciais:
 
